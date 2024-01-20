@@ -1,0 +1,73 @@
+
+#header{
+background-color: rgb(33, 152, 203);
+height: 40px;
+color: antiquewhite;
+font-weight: 200;
+font-style:normal;
+font-size: larger;
+padding-top:20px ;
+}
+#home:hover{
+    background-color: blue;
+}
+
+#aboutus:hover{
+    background-color: blue;
+}
+#contactus:hover{
+    background-color: blue;
+}
+#details:hover{
+    background-color: blue;
+}
+*{
+    padding:4px;
+    margin: 4px;
+}
+ul{
+list-style: none;
+
+padding-top: 0px;
+margin-top: 0px;
+
+}
+li{
+    display: inline;
+    text-align: center;
+  padding: 14px 16px;
+}
+body{
+    background-image: url(./backkk.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+}
+
+
+
+#center{
+    text-align: center;
+}
+button{
+    font-size: larger;
+    color: aliceblue;
+    background-color: rgb(19, 138, 138);
+    border-radius: 60px;
+    padding:10px  20px 5px 20px;
+    border-color:gray ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: 600;
+    font-size: large;
+    color: rgb(16, 171, 171);
+}
